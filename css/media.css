@@ -1,0 +1,248 @@
+
+/*extra lagre*/
+@media(max-width:1199px){
+	.hg {
+    min-height: 80vh;
+}
+.hg h1 {
+    font-size: 60px;
+}
+.fa, .fas {
+    margin-bottom: 100px;
+}
+.image::before{
+    width: 90%;
+}
+.img-fluid {
+    max-width: 90%;
+}
+.content-icon {
+    top: 85%;
+}
+.attorney-content h2 {
+    font-size: 25px;
+}
+.what-we-do{
+    background-size: 730px;
+}
+.heading h1 {
+    font-size: 32px;
+}
+.heading-two h1 {
+    font-size: 32px;
+}
+.contac h1 {
+    font-size: 32px;
+}
+}
+/*lagre*/
+@media(max-width:991px){
+	.img-fluid {
+    max-width: 90%;
+
+    }
+    .hg h1 {
+    font-size: 50px;
+}
+    .hg {
+    min-height: 70vh;
+}
+.fa, .fas {
+    margin-bottom: 150px;
+}
+.heading h1 {
+    font-size: 30px;
+}
+.heading-two h1 {
+    font-size: 30px;
+}
+.attorney-content h2 {
+    font-size: 20px;
+}
+.content-icon {
+    top: 80%;
+    left: 30%;
+    font-size: 20px;
+}
+.image::before{
+    width: 90%;
+}
+.contac h1 {
+    font-size: 30px;
+}
+.content{
+    left: 40%;
+}
+.content h2 {
+    font-size: 20px;
+}
+.what-we-do{
+    background-size: 550px;
+}
+input.send {
+    width: 80%;
+}
+}
+/*medium*/
+@media(max-width:767px){
+    .hg h1 {
+    font-size: 40px;
+}
+.icon {
+    font-size: 25px;
+}
+	.img-fluid {
+    max-width: 60%;
+    }
+
+.hg {
+    min-height: 70vh;
+}
+.fa, .fas {
+    margin-bottom: 150px;
+}
+.cntr{
+	text-align: center;
+}
+.heading h1 {
+    font-size: 25px;
+}
+.heading-two h1 {
+    font-size: 25px;
+}
+.what-we-do{
+    background-size: 800px;
+}
+.attorney-content h2 {
+    font-size: 15px;
+}
+.spanish h3 {
+    font-size: 20px;
+}
+.image::before{
+    width: 60%;
+}
+.content-icon {
+    top: 70%;
+    left: 30%;
+    font-size: 15px;
+}
+.content{
+    left: 40%;
+}
+.contac h1 {
+    font-size: 25px;
+}
+.content h2 {
+    font-size: 15px;
+}
+.mg{
+    padding-top: 20px;
+}
+input.send {
+    width: 80%;
+}
+.auto{
+    padding-top: 20px;
+    margin: auto;
+}
+.attorney-content {
+    left: 10%;
+}
+.content {
+    left: 30%;
+}
+.content-icon {
+    top: 60%;
+    font-size: 15px;
+}
+
+}
+/*small*/
+@media(max-width:575px){
+	.img-fluid {
+    max-width: 70%;
+    
+}
+
+.hg h1 {
+    font-size: 35px;
+}
+.hg {
+    min-height: 60vh;
+}
+.fa, .fas {
+    margin-bottom: 200px;
+}
+.cntr{
+	text-align: center;
+}
+
+.heading h1{
+	font-size: 30px;
+}
+
+.who-we-are{
+	padding: 80px 0;
+}
+.content h2 {
+    font-size: 14px;
+}
+.mg{
+    padding-top: 20px;
+}
+.middle{
+    text-align: center;
+}
+
+.heading h1 {
+    font-size: 25px;
+}
+.attorney-content h2 {
+    font-size: 15px;
+}
+.image::before{
+    width: 60%;
+}
+.icon {
+    
+    font-size: 20px;
+}
+.spanish h3 {
+    font-size: 22px;
+}
+
+.contac h1 {
+    font-size: 25px;
+}
+input.send {
+    width: 20%;
+    padding: 2px;
+}
+.what-we-do{
+    background-size: 700px;
+}
+.heading-two h1 {
+    font-size: 25px;
+}
+.contac h1 {
+    font-size: 30px;
+}
+.img-fluid {
+    max-width: 60%;
+    }
+.auto{
+    padding-top: 20px;
+    margin: auto;
+}
+.attorney-content {
+    left: 10%;
+}
+.content {
+    left: 30%;
+}
+.content-icon {
+    top: 60%;
+    font-size: 15px;
+}
+}
